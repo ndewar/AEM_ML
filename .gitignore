@@ -1,0 +1,6 @@
+#### FOLDERS #######
+raw_processed_data/
+
+###### FILES #######
+*.sublime-project
+*.sublime-workspace
